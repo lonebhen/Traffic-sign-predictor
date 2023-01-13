@@ -9,6 +9,8 @@ This project is a deep learning model that uses convolutional neural networks (C
 - Matplotlib
 - OpenCV (for image pre-processing)
 
+or simply download all the files in the requirements.txt file [pip install -r requirements.txt]
+
 ## Getting Started
 
 1. Clone this repository:
