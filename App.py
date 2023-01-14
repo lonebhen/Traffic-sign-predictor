@@ -78,7 +78,7 @@ def upload():
         f.save(file_path)
 
         #Get the car speed from user
-        speed =request.text('text')
+        # speed =request.text('text')
 
         # Make prediction
         result = image_processing(file_path)
